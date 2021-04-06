@@ -1,2 +1,2 @@
 # NoDaX-Project
-Suivre les instructions  fournies dans les scripfd
+Suivez les instructions fournis dans les scripts
